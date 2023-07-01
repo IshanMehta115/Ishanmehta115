@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanmehta115&label=Profile%20views&color=0e75b6&style=flat" alt="ishanmehta115" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://ishanmehta115.github.io/](https://ishanmehta115.github.io/)
+Link to Portfolio Website: [https://ishanmehta115.github.io/](https://ishanmehta115.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
