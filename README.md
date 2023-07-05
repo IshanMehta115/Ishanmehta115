@@ -43,11 +43,11 @@ Link to Portfolio Website: [https://ishanmehta115.github.io/](https://ishanmehta
   [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
 
 
-Hey there 👋
 
-I am a programmer passionate about full-stack web development and machine learning, with experience in Django. Combining my technical skills with a design-oriented mindset, I bring a unique perspective to my work. Let's collaborate and build innovative software solutions that leave a lasting impression!
 
-Want to know more about me? ⭐ [Check out my portfolio.](https://ishanmehta115.github.io/) ⭐
+<h3 align="center">I am a programmer passionate about full-stack web development and machine learning, with experience in Django. Combining my technical skills with a design-oriented mindset, I bring a unique perspective to my work. Let's collaborate and build innovative software solutions that leave a lasting impression!
+<br><br></h3>
+  <h4 align="center">Want to know more about me? ⭐ <a href="https://ishanmehta115.github.io/">Check out my portfolio.</a>⭐</h4>
 
 
 ## 📌 My Best Works
@@ -139,7 +139,11 @@ Want to know more about me? ⭐ [Check out my portfolio.](https://ishanmehta115.
 
 ## Contact Me
 
-<a href="https://www.linkedin.com/in/ishan-mehta-2357741a7/" target="blank"><img align="center" src="https://github.com/IshanMehta115/Ishanmehta115/assets/73947463/be443857-5128-410d-8442-d85af5bcf867" alt="ishan mehta" height="40" width="40" /></a>
+<p align="left">
+<a href="https://www.linkedin.com/in/ishan-mehta-2357741a7/" target="blank"><img align="center" src="https://github.com/IshanMehta115/Ishanmehta115/blob/main/linkedin-svg.svg" alt="ishan mehta" height="60" width="60" /></a>
+</p>
+
+
 
 
 
