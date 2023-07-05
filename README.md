@@ -61,6 +61,10 @@ Link to Portfolio Website: [https://ishanmehta115.github.io/](https://ishanmehta
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=IshanMehta115&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Ishan's GitHub Stats" />
 </a></p>
 
+ <img src="https://github-readme-stats.vercel.app/api?username=amide-inc&show_icons=true&count_private=true&theme=dark" />
+
+ ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=amide-inc&theme=dark) 
+
 <br>
 <br>
 
