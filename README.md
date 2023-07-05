@@ -137,18 +137,13 @@ Want to know more about me? ⭐ [Check out my portfolio.](https://ishanmehta115.
 
 <br>
 
-## 📣 How about an Office quote before you go?
+## Contact Me
 
-> Bears, Beets, Battlestar Galactica.
->
-> <p>- Jim Halpert</p>
+<a href="https://www.linkedin.com/in/ishan-mehta-2357741a7/" target="blank"><img align="center" src="https://github.com/IshanMehta115/Ishanmehta115/assets/73947463/be443857-5128-410d-8442-d85af5bcf867" alt="ishan mehta" height="40" width="40" /></a>
 
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
 
-Check back at the top of the hour for a new quote!
 
-<br>
 
-> ### Want to know how I made this README?
->
-> Check out my [tutorial](https://braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-1/)!
+
+
+
