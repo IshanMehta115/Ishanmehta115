@@ -40,7 +40,7 @@ Link to Portfolio Website: [https://ishanmehta115.github.io/](https://ishanmehta
 
 
 
-<h3 align="center">I am a programmer passionate about full-stack web development and machine learning, with experience in Django. Combining my technical skills with a design-oriented mindset, I bring a unique perspective to my work. Let's collaborate and build innovative software solutions that leave a lasting impression!
+<h3 align="center">👨‍💻 I am a programmer passionate about full-stack web development and machine learning, with experience in Django. Combining my technical skills with a design-oriented mindset, I bring a unique perspective to my work. Let's collaborate and build innovative software solutions that leave a lasting impression! 🚀 
 <br><br></h3>
   <h4 align="center">Want to know more about me? ⭐ <a href="https://ishanmehta115.github.io/">Check out my portfolio.</a>⭐</h4><br><br><br>
 
@@ -56,7 +56,7 @@ Link to Portfolio Website: [https://ishanmehta115.github.io/](https://ishanmehta
 
 <a href="https://github.com/IshanMehta115">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=IshanMehta115&show_icons=true&line_height=27&count_private=true&theme=dark" alt="Ishan's GitHub Stats" />
-</a> &ensp;&ensp;
+</a> &ensp;
 <a href="https://github.com/IshanMehta115">
   <img align="center" style="margin:0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=IshanMehta115&theme=dark" alt="Ishan's GitHub Streak Stats" />
 </a><br><br>
@@ -69,7 +69,7 @@ Link to Portfolio Website: [https://ishanmehta115.github.io/](https://ishanmehta
 <br>
 <br>
 
-## 💼 Skills
+## 📜 Skills
 
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
@@ -128,7 +128,7 @@ Link to Portfolio Website: [https://ishanmehta115.github.io/](https://ishanmehta
 
 <br>
 
-## Contact Me
+## 📞 Contact Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ishan-mehta-2357741a7/" target="blank"><img align="center" src="https://github.com/IshanMehta115/Ishanmehta115/blob/main/linkedin-svg.svg" alt="ishan mehta" height="60" width="60" /></a>
