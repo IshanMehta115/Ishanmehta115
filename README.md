@@ -55,13 +55,10 @@ Link to Portfolio Website: [https://ishanmehta115.github.io/](https://ishanmehta
 <p align="center">
 
 <a href="https://github.com/IshanMehta115">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=IshanMehta115&show_icons=true&line_height=27&count_private=true&theme=dark" alt="Ishan's GitHub Stats" />
+  <img width = "400" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=IshanMehta115&show_icons=true&line_height=27&count_private=true&theme=dark" alt="Ishan's GitHub Stats" />
 </a> &ensp;
 <a href="https://github.com/IshanMehta115">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=IshanMehta115&theme=dark" alt="Ishan's GitHub Streak Stats" />
-</a><br><br>
-<a href="https://github.com/IshanMehta115">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanMehta115&theme=dark&langs_count=10&layout=donut-vertical" />
+  <img width = "400" align="center" style="margin:0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=IshanMehta115&theme=dark" alt="Ishan's GitHub Streak Stats" />
 </a>
 </p>
 
