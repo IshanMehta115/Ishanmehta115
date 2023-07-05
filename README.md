@@ -38,34 +38,20 @@ Link to Portfolio Website: [https://ishanmehta115.github.io/](https://ishanmehta
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanmehta115&label=Profile%20views&color=0e75b6&style=flat" alt="ishanmehta115" /> </p> -->
 
-  [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)(https://www.linkedin.com/in/braydon-coyer/)
-  [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
-
-
 
 
 <h3 align="center">I am a programmer passionate about full-stack web development and machine learning, with experience in Django. Combining my technical skills with a design-oriented mindset, I bring a unique perspective to my work. Let's collaborate and build innovative software solutions that leave a lasting impression!
 <br><br></h3>
-  <h4 align="center">Want to know more about me? ⭐ <a href="https://ishanmehta115.github.io/">Check out my portfolio.</a>⭐</h4>
+  <h4 align="center">Want to know more about me? ⭐ <a href="https://ishanmehta115.github.io/">Check out my portfolio.</a>⭐</h4><br><br><br>
 
 
-## 📌 My Best Works
+## 📌 My Best Works <br><br>
+1. ⭐[Portfolio Website](https://ishanmehta115.github.io/)⭐: A captivating portfolio website with a 3D scroll effect, showcasing projects, designs, and skills. Engaging animations and interactive elements provide an immersive user experience, highlighting expertise and leaving a lasting impression.<br>[Github Link](https://github.com/IshanMehta115/ishanmehta115.github.io)<br><br><br>
+2. ⭐[AllPass Password Manager](https://github.com/IshanMehta115/AllPass-Password-Manager)⭐:All-Pass Password Manager is a full-stack project developed in Django. It is designed to prioritize both cyber security and usability. The users can securely store and manage their passwords, ensuring their online accounts are protected.<br>[Github Link](https://github.com/IshanMehta115/AllPass-Password-Manager)<br><br><br>
 
-<br>
-<p align="center">
-<a href="https://github.com/IshanMehta115/ishanmehta115.github.io">
-  <img align="center" width="400" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=IshanMehta115&repo=ishanmehta115.github.io&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<a href="https://github.com/IshanMehta115/ishanmehta115.github.io">
-  <img align="center" width="400" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=IshanMehta115&repo=AllPass-Password-Manager&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-</p>
-<br>
 
 ## &#x1f4c8; GitHub Stats
 
-<br>
 <p align="center">
 <a href="https://github.com/IshanMehta115">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanMehta115&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&langs_count=10&layout=donut-vertical" />
