@@ -34,7 +34,7 @@ Link to Portfolio Website: [https://ishanmehta115.github.io/](https://ishanmehta
     <img src="/github-header-image-1.png" alt="Ishan's Github Banner" width="600px">
   </a>
 </p>
-
+<br><br>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanmehta115&label=Profile%20views&color=0e75b6&style=flat" alt="ishanmehta115" /> </p> -->
 
