@@ -53,15 +53,14 @@ Want to know more about me? ⭐ [Check out my portfolio.](https://ishanmehta115.
 ## 📌 My Best Works
 
 <br>
-
-<br>
+<p align="center">
 <a href="https://github.com/IshanMehta115/ishanmehta115.github.io">
   <img align="center" width="400" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=IshanMehta115&repo=ishanmehta115.github.io&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
 <a href="https://github.com/IshanMehta115/ishanmehta115.github.io">
   <img align="center" width="400" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=IshanMehta115&repo=AllPass-Password-Manager&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+</p>
 <br>
 
 ## &#x1f4c8; GitHub Stats
