@@ -50,20 +50,21 @@ Link to Portfolio Website: [https://ishanmehta115.github.io/](https://ishanmehta
 2. ⭐[AllPass Password Manager](https://ishanmehta.pythonanywhere.com/)⭐:All-Pass Password Manager is a full-stack project developed in Django. It is designed to prioritize both cyber security and usability. The users can securely store and manage their passwords, ensuring their online accounts are protected.<br>[Github Link](https://github.com/IshanMehta115/AllPass-Password-Manager)<br><br><br>
 
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats <br><br>
 
 <p align="center">
+
 <a href="https://github.com/IshanMehta115">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanMehta115&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&langs_count=10&layout=donut-vertical" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=IshanMehta115&show_icons=true&line_height=27&count_private=true&theme=dark" alt="Ishan's GitHub Stats" />
+</a> &ensp;&ensp;
+<a href="https://github.com/IshanMehta115">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=IshanMehta115&theme=dark" alt="Ishan's GitHub Streak Stats" />
+</a><br><br>
+<a href="https://github.com/IshanMehta115">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanMehta115&theme=dark&langs_count=10&layout=donut-vertical" />
 </a>
+</p>
 
-<a href="https://github.com/IshanMehta115">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=IshanMehta115&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Ishan's GitHub Stats" />
-</a></p>
-
- <img src="https://github-readme-stats.vercel.app/api?username=amide-inc&show_icons=true&count_private=true&theme=dark" />
-
- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=amide-inc&theme=dark) 
 
 <br>
 <br>
