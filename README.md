@@ -26,8 +26,9 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/-C++-00599c?style=flat&logo=cplusplus&logoColor=white&labelColor=00599c" height="30">
-<img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=JavaScript&logoColor=white&labelColor=f7df1e" height="30">
+<img src="https://img.shields.io/badge/-Java-ed8b00?style=flat&logo=openjdk&logoColor=white&labelColor=ed8b00" height="30">
 <img src="https://img.shields.io/badge/-Python-3776ab?style=flat&logo=Python&logoColor=white&labelColor=3776ab" height="30">
+<img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=JavaScript&logoColor=white&labelColor=f7df1e" height="30">
 </p>
 
 - ### Frontend Development
