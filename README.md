@@ -21,11 +21,61 @@
 
 
 ## 📜 Skills
+
+### Programming Languages
+
+<p align="center">
+<img src="https://img.shields.io/badge/-C++-00599c?style=flat&logo=cplusplus&logoColor=white&labelColor=00599c" height="30">
+<img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=JavaScript&logoColor=white&labelColor=f7df1e" height="30">
+<img src="https://img.shields.io/badge/-Python-3776ab?style=flat&logo=Python&logoColor=white&labelColor=3776ab" height="30">
+</p>
+
+### Frontend Development
+
+<p align="center">
+<img src="https://img.shields.io/badge/-CSS3-1572b6?style=flat&logo=CSS3&logoColor=white&labelColor=1572b6" height="30">
+<img src="https://img.shields.io/badge/-HTML5-e34f26?style=flat&logo=HTML5&logoColor=white&labelColor=e34f26" height="30">
+</p>
+
+### Mobile App Development
+
+<p align="center">
+<img src="https://img.shields.io/badge/-AndroidStudio-3ddc84?style=flat&logo=Android-Studio&logoColor=white&labelColor=3ddc84" height="30">
+</p>
+
+
+### AI/ML
+
+<p align="center">
+<img src="https://img.shields.io/badge/-Tensorflow-ff6f00?style=flat&logo=Tensorflow&logoColor=white&labelColor=ff6f00" height="30">
+<img src="https://img.shields.io/badge/-Pytorch-ee4c2c?style=flat&logo=Pytorch&logoColor=white&labelColor=ee4c2c" height="30">
+<img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=white&labelColor=150458" height="30">
+<img src="https://img.shields.io/badge/-Scikit%20Learn-f7931e?style=flat&logo=Scikit-Learn&logoColor=white&labelColor=f7931e" height="30">
+</p>
+
+### Database
+
+<p align="center">
+<img src="https://img.shields.io/badge/-MySQL-4479a1?style=flat&logo=MySQL&logoColor=white&labelColor=4479a1" height="30">
+</p>
+
+### Devops
+
+<p align="center">
+<img src="https://img.shields.io/badge/-Google Cloud Platform-4285f4?style=flat&logo=Google-Cloud&logoColor=white&labelColor=4285f4" height="30">
+</p>
+
+
+
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,arduino,c,cpp,css,django,figma,firebase,flask,gcp,github,html,idea,ai,java,js,matlab,mysql,octave,ps,processing,py,tensorflow,unity,vscode" />
   </a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://offeescript.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
@@ -106,6 +156,12 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ishan-mehta-2357741a7/" target="blank"><img align="center" src="https://github.com/IshanMehta115/Ishanmehta115/blob/main/linkedin-svg.svg" alt="ishan mehta" height="60" width="60" /></a>
 </p>
+
+
+
+
+
+
 
 
 
