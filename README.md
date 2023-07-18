@@ -36,6 +36,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-e34f26?style=flat&logo=HTML5&logoColor=white&labelColor=e34f26" height="30">
 <img src="https://img.shields.io/badge/-CSS3-1572b6?style=flat&logo=CSS3&logoColor=white&labelColor=1572b6" height="30">
+<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white&labelColor=7952B3" height="30">
 </p>
 
 - ### Mobile App Development
