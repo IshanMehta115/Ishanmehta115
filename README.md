@@ -38,6 +38,7 @@
 <img src="https://img.shields.io/badge/-HTML5-e34f26?style=flat&logo=HTML5&logoColor=white&labelColor=e34f26" height="30">
 <img src="https://img.shields.io/badge/-CSS3-1572b6?style=flat&logo=CSS3&logoColor=white&labelColor=1572b6" height="30">
 <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white&labelColor=7952B3" height="30">
+<img src="https://img.shields.io/badge/-TailwindCSS-06b6d4?style=flat&logo=TailwindCSS&logoColor=white&labelColor=06b6d4" height="30">
 </p>
 
 - ### Mobile App Development
@@ -46,6 +47,12 @@
 <img src="https://img.shields.io/badge/-Android Studio-3ddc84?style=flat&logo=Android-Studio&logoColor=white&labelColor=3ddc84" height="30">
 </p>
 
+- ### Database
+
+<p align="center">
+<img src="https://img.shields.io/badge/-MySQL-4479a1?style=flat&logo=MySQL&logoColor=white&labelColor=4479a1" height="30">
+<img src="https://img.shields.io/badge/-Firebase-ffca28?style=flat&logo=Firebase&logoColor=white&labelColor=ffca28" height="30">
+</p>
 
 - ### AI/ML
 
@@ -54,24 +61,7 @@
 <img src="https://img.shields.io/badge/-Pytorch-ee4c2c?style=flat&logo=Pytorch&logoColor=white&labelColor=ee4c2c" height="30">
 <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=white&labelColor=150458" height="30">
 <img src="https://img.shields.io/badge/-Scikit Learn-f7931e?style=flat&logo=Scikit-Learn&logoColor=white&labelColor=f7931e" height="30">
-</p>
-
-- ### Database
-
-<p align="center">
-<img src="https://img.shields.io/badge/-MySQL-4479a1?style=flat&logo=MySQL&logoColor=white&labelColor=4479a1" height="30">
-</p>
-
-- ### Devops
-
-<p align="center">
 <img src="https://img.shields.io/badge/-Google Cloud Platform-4285f4?style=flat&logo=Google-Cloud&logoColor=white&labelColor=4285f4" height="30">
-</p>
-
-- ### Backend as a Service(BaaS)
-
-<p align="center">
-<img src="https://img.shields.io/badge/-Firebase-ffca28?style=flat&logo=Firebase&logoColor=white&labelColor=ffca28" height="30">
 </p>
 
 - ### Framework
