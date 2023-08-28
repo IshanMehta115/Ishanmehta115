@@ -41,6 +41,13 @@
 <img src="https://img.shields.io/badge/-TailwindCSS-06b6d4?style=flat&logo=TailwindCSS&logoColor=white&labelColor=06b6d4" height="30">
 </p>
 
+- ### Backend Development
+
+<p align="center">
+<img src="https://img.shields.io/badge/-Django-092e20?style=flat&logo=Django&logoColor=white&labelColor=092e20" height="30">
+<img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white&labelColor=000000" height="30">
+</p>
+
 - ### Mobile App Development
 
 <p align="center">
@@ -54,7 +61,7 @@
 <img src="https://img.shields.io/badge/-Firebase-ffca28?style=flat&logo=Firebase&logoColor=white&labelColor=ffca28" height="30">
 </p>
 
-- ### AI/ML
+- ### Machine Learning
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Tensorflow-ff6f00?style=flat&logo=Tensorflow&logoColor=white&labelColor=ff6f00" height="30">
@@ -64,10 +71,14 @@
 <img src="https://img.shields.io/badge/-Google Cloud Platform-4285f4?style=flat&logo=Google-Cloud&logoColor=white&labelColor=4285f4" height="30">
 </p>
 
-- ### Framework
+- ### Softwares
 
 <p align="center">
-<img src="https://img.shields.io/badge/-Django-092e20?style=flat&logo=Django&logoColor=white&labelColor=092e20" height="30">
+<img src="https://img.shields.io/badge/-Eclipse-2c2255?style=flat&logo=Eclipse-ide&logoColor=white&labelColor=2c2255" height="30">
+<img src="https://img.shields.io/badge/-Visual Studio Code-007acc?style=flat&logo=Visual-Studio-Code&logoColor=white&labelColor=007acc" height="30">
+<img src="https://img.shields.io/badge/-Sublime Text-ff9800?style=flat&logo=sublimetext&logoColor=white&labelColor=ff9800" height="30">
+<img src="https://img.shields.io/badge/-Google Colab-f9ab00?style=flat&logo=Google-Colab&logoColor=white&labelColor=f9ab00" height="30">
+<img src="https://img.shields.io/badge/-Jupyter-f37626?style=flat&logo=Jupyter&logoColor=white&labelColor=f37626" height="30">
 </p>
 
 - ### Software
