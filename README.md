@@ -77,6 +77,8 @@
 <img src="https://img.shields.io/badge/-Eclipse-2c2255?style=flat&logo=Eclipse-ide&logoColor=white&labelColor=2c2255" height="30">
 <img src="https://img.shields.io/badge/-Visual Studio Code-007acc?style=flat&logo=Visual-Studio-Code&logoColor=white&labelColor=007acc" height="30">
 <img src="https://img.shields.io/badge/-Sublime Text-ff9800?style=flat&logo=sublimetext&logoColor=white&labelColor=ff9800" height="30">
+<img src="https://img.shields.io/badge/-Intellij Idea-436dd8?style=flat&logo=intellijidea&logoColor=white&labelColor=436dd8" height="30">
+  
 <img src="https://img.shields.io/badge/-Google Colab-f9ab00?style=flat&logo=Google-Colab&logoColor=white&labelColor=f9ab00" height="30">
 <img src="https://img.shields.io/badge/-Jupyter-f37626?style=flat&logo=Jupyter&logoColor=white&labelColor=f37626" height="30">
 </p>
