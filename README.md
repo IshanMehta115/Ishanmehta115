@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=JavaScript&logoColor=white&labelColor=f7df1e" height="30">
 </p>
 
-- ### Frontend Development
+- ### Front-end Development
 
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-e34f26?style=flat&logo=HTML5&logoColor=white&labelColor=e34f26" height="30">
@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/-TailwindCSS-06b6d4?style=flat&logo=TailwindCSS&logoColor=white&labelColor=06b6d4" height="30">
 </p>
 
-- ### Backend Development
+- ### Back-end Development
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Django-092e20?style=flat&logo=Django&logoColor=white&labelColor=092e20" height="30">
@@ -54,30 +54,29 @@
 <img src="https://img.shields.io/badge/-Android Studio-3ddc84?style=flat&logo=Android-Studio&logoColor=white&labelColor=3ddc84" height="30">
 </p>
 
-- ### Database
+- ### Databases
 
 <p align="center">
 <img src="https://img.shields.io/badge/-MySQL-4479a1?style=flat&logo=MySQL&logoColor=white&labelColor=4479a1" height="30">
 <img src="https://img.shields.io/badge/-Firebase-ffca28?style=flat&logo=Firebase&logoColor=white&labelColor=ffca28" height="30">
 </p>
 
-- ### Machine Learning
+- ### Machine Learning and AI Frameworks
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Tensorflow-ff6f00?style=flat&logo=Tensorflow&logoColor=white&labelColor=ff6f00" height="30">
 <img src="https://img.shields.io/badge/-Pytorch-ee4c2c?style=flat&logo=Pytorch&logoColor=white&labelColor=ee4c2c" height="30">
 <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=white&labelColor=150458" height="30">
 <img src="https://img.shields.io/badge/-Scikit Learn-f7931e?style=flat&logo=Scikit-Learn&logoColor=white&labelColor=f7931e" height="30">
-<img src="https://img.shields.io/badge/-Google Cloud Platform-4285f4?style=flat&logo=Google-Cloud&logoColor=white&labelColor=4285f4" height="30">
 </p>
 
-- ### Integrated Development Environment (IDE)
+- ### Integrated Development Environment (IDE) and text editors
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Eclipse-2c2255?style=flat&logo=Eclipse-ide&logoColor=white&labelColor=2c2255" height="30">
 <img src="https://img.shields.io/badge/-Visual Studio Code-007acc?style=flat&logo=Visual-Studio-Code&logoColor=white&labelColor=007acc" height="30">
-<img src="https://img.shields.io/badge/-Sublime Text-ff9800?style=flat&logo=sublimetext&logoColor=white&labelColor=ff9800" height="30">
 <img src="https://img.shields.io/badge/-Intellij Idea-436dd8?style=flat&logo=intellijidea&logoColor=white&labelColor=436dd8" height="30">
+<img src="https://img.shields.io/badge/-Sublime Text-ff9800?style=flat&logo=sublimetext&logoColor=white&labelColor=ff9800" height="30">
 </p>
 
 
@@ -101,8 +100,6 @@
 <img src="https://img.shields.io/badge/-Matlab-b11c24?style=flat" height="30">
 <img src="https://img.shields.io/badge/-Octave-0790c0?style=flat&logo=Octave&logoColor=white&labelColor=0790c0" height="30">
 </p>
-
-
 
 - ### Design Tools
 
