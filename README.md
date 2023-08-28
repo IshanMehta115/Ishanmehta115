@@ -95,10 +95,11 @@
 </p>
 
 
-- ### Mathematical softwares
+- ### Numerical Computing Environments
 
 <p align="center">
-<!-- <img src="https://img.shields.io/badge/-asdasd-f9ab00?style=flat&logo=Google-Colab&logoColor=white&labelColor=f9ab00" height="30"> -->
+<img src="https://img.shields.io/badge/-Matlab-b11c24?style=flat" height="30">
+<img src="https://img.shields.io/badge/-Octave-0790c0?style=flat&logo=Octave&logoColor=white&labelColor=0790c0" height="30">
 </p>
 
 
