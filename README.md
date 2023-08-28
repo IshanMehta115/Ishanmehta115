@@ -71,26 +71,45 @@
 <img src="https://img.shields.io/badge/-Google Cloud Platform-4285f4?style=flat&logo=Google-Cloud&logoColor=white&labelColor=4285f4" height="30">
 </p>
 
-- ### Softwares
+- ### Integrated Development Environment (IDE)
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Eclipse-2c2255?style=flat&logo=Eclipse-ide&logoColor=white&labelColor=2c2255" height="30">
 <img src="https://img.shields.io/badge/-Visual Studio Code-007acc?style=flat&logo=Visual-Studio-Code&logoColor=white&labelColor=007acc" height="30">
 <img src="https://img.shields.io/badge/-Sublime Text-ff9800?style=flat&logo=sublimetext&logoColor=white&labelColor=ff9800" height="30">
 <img src="https://img.shields.io/badge/-Intellij Idea-436dd8?style=flat&logo=intellijidea&logoColor=white&labelColor=436dd8" height="30">
-  
+</p>
+
+
+- ### Interactive Computing Environments
+
+<p align="center">
 <img src="https://img.shields.io/badge/-Google Colab-f9ab00?style=flat&logo=Google-Colab&logoColor=white&labelColor=f9ab00" height="30">
 <img src="https://img.shields.io/badge/-Jupyter-f37626?style=flat&logo=Jupyter&logoColor=white&labelColor=f37626" height="30">
 </p>
 
-- ### Software
+- ### Cybersecurity
+
+<p align="center">
+<img src="https://img.shields.io/badge/-OWASP-557cbe?style=flat&logo=owasp&logoColor=white&labelColor=557cbe" height="30">
+</p>
+
+
+- ### Mathematical softwares
+
+<p align="center">
+<!-- <img src="https://img.shields.io/badge/-asdasd-f9ab00?style=flat&logo=Google-Colab&logoColor=white&labelColor=f9ab00" height="30"> -->
+</p>
+
+
+
+- ### Design Tools
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Adobe Illustrator-ff9a00?style=flat&logo=Adobe-Illustrator&logoColor=white&labelColor=ff9a00" height="30">
 <img src="https://img.shields.io/badge/-Adobe Photoshop-31a8ff?style=flat&logo=Adobe-Photoshop&logoColor=white&labelColor=31a8ff" height="30">
 <img src="https://img.shields.io/badge/-Figma-f24e1e?style=flat&logo=Figma&logoColor=white&labelColor=f24e1e" height="30">
-<img src="https://img.shields.io/badge/-Google Colab-f9ab00?style=flat&logo=Google-Colab&logoColor=white&labelColor=f9ab00" height="30">
-<img src="https://img.shields.io/badge/-Visual Studio Code-007acc?style=flat&logo=Visual-Studio-Code&logoColor=white&labelColor=007acc" height="30">
+<img src="https://img.shields.io/badge/-Canva-00c4cc?style=flat&logo=Canva&logoColor=white&labelColor=00c4cc" height="30">
 </p>
 
 
