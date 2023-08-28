@@ -9,12 +9,12 @@
 
 
 
-<h3 align="center">👨‍💻 I am a programmer passionate about full-stack web development and machine learning, with experience in Django. Combining my technical skills with a design-oriented mindset, I bring a unique perspective to my work. Let's collaborate and build innovative software solutions that leave a lasting impression! 🚀 
+<h3 align="center">👨‍💻 I'm a passionate software developer with a knack for full-stack web development, along with a keen interest in exploring the exciting realm of machine learning. Combining my technical skills with a design-oriented mindset, I bring a unique perspective to my work. Let's collaborate and build innovative software solutions that leave a lasting impression! 🚀 
 <br><br></h3>
   <h4 align="center">Want to know more about me? ⭐ <a href="https://ishanmehta115.github.io/">Check out my portfolio.</a>⭐</h4><br><br><br>
 
 
-## 📌 My Best Works <br><br>
+## 📌 Highlighted Projects <br><br>
 1. ⭐[Portfolio Website](https://ishanmehta115.github.io/)⭐: A captivating portfolio website with a 3D scroll effect, showcasing projects, designs, and skills. Engaging animations and interactive elements provide an immersive user experience, highlighting expertise and leaving a lasting impression.<br>[Github Link](https://github.com/IshanMehta115/ishanmehta115.github.io)<br><br><br>
 2. ⭐[AllPass Password Manager](https://ishanmehta.pythonanywhere.com/)⭐:All-Pass Password Manager is a full-stack project developed in Django. It is designed to prioritize both cyber security and usability. The users can securely store and manage their passwords, ensuring their online accounts are protected.<br>[Github Link](https://github.com/IshanMehta115/AllPass-Password-Manager)<br><br><br>
 
