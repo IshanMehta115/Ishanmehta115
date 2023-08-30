@@ -1,6 +1,6 @@
 <br><br><p align="center">
   <a href="https://ishanmehta115.github.io/">
-    <img src="/github-header-image-1.png" alt="Ishan's Github Banner" width="700px">
+    <img src="/github-header-image-1.png" alt="Ishan's Github Banner" width="600px">
   </a>
 </p>
 <br><br>
