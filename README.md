@@ -16,7 +16,8 @@
 
 ## 📌 Highlighted Projects <br><br>
 1. ⭐[Portfolio Website](https://ishanmehta115.github.io/)⭐: A captivating portfolio website with a 3D scroll effect, showcasing projects, designs, and skills. Engaging animations and interactive elements provide an immersive user experience, highlighting expertise and leaving a lasting impression.<br>[Github Link](https://github.com/IshanMehta115/ishanmehta115.github.io)<br><br><br>
-2. ⭐[AllPass Password Manager](https://ishanmehta.pythonanywhere.com/)⭐:All-Pass Password Manager is a full-stack project developed in Django. It is designed to prioritize both cyber security and usability. The users can securely store and manage their passwords, ensuring their online accounts are protected.<br>[Github Link](https://github.com/IshanMehta115/AllPass-Password-Manager)<br><br><br>
+2. ⭐[AllPass Password Manager](https://ishanmehta.pythonanywhere.com/)⭐: All-Pass Password Manager is a full-stack project developed in Django. It is designed to prioritize both cyber security and usability. The users can securely store and manage their passwords, ensuring their online accounts are protected.<br>[Github Link](https://github.com/IshanMehta115/AllPass-Password-Manager)<br><br><br>
+3. ⭐Smile-CNN⭐: This project was done in the Machine Learning Internship by [Indian Institute of Technology Bhubaneswar](https://www.iitbbs.ac.in/). Full stack real time face and smile detection app made using haar cascades and Convolutional neural networks along with Flask, Tailwind CSS, OpenCV and AJAX queries.<br>[Github Link](https://github.com/IshanMehta115/smile-Cnn/)<br><br><br>
 
 
 
